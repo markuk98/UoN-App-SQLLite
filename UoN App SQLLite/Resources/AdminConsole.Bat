@@ -1,0 +1,1 @@
+C:\Windows\System32\runas.exe /user:northampton\%username%_Admin /savecred  "C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\bin\Microsoft.ConfigurationManagement.exe"

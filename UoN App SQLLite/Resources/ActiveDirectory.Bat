@@ -1,0 +1,1 @@
+C:\Windows\System32\runas.exe /user:northampton\%username%_Admin /savecred "cmd /c mmc C:\Windows\System32\dsa.msc"
